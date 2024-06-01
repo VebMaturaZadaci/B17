@@ -1,0 +1,31 @@
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.csproj.AssemblyReference.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.AssemblyInfoInputs.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.AssemblyInfo.cs
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.csproj.CoreCompileInputs.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.RazorAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.RazorAssemblyInfo.cs
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\appsettings.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.staticwebassets.runtime.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.exe
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.deps.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.runtimeconfig.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.dll
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\bin\Debug\net6.0\B17 Web shop.pdb
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets\msbuild.B17 Web shop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets\msbuild.build.B17 Web shop.props
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.B17 Web shop.props
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.B17 Web shop.props
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\scopedcss\bundle\B17 Web shop.styles.css
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\scopedcss\projectbundle\B17 Web shop.bundle.scp.css
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.dll
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\refint\B17 Web shop.dll
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.pdb
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\B17 Web shop.genruntimeconfig.cache
+C:\Users\mlade\OneDrive\Desktop\Maturski zadaci\VEB\Zadaci\B17 Web shop\obj\Debug\net6.0\ref\B17 Web shop.dll

@@ -1,0 +1,58 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+    <div class="form-control">
+        <label for="Tip">Proizvodjac</label>
+        <select id="Tip" asp-items="@Model.Proizvodjacisl" asp-for="proizvodjac"></select>
+
+        <label for="Tip">RAM:</label>
+        <select id="Tip" asp-items="@Model.Ramsl" asp-for="ram"></select>
+
+        <label for="Tip">CPU:</label>
+        <select id="Tip" asp-items="@Model.Cpusl" asp-for="cpu"></select>
+
+        <label for="Tip">Kamera:</label>
+        <select id="Tip" asp-items="@Model.Kamerasl" asp-for="kamera"></select>
+
+        <label for="Tip">Ekran:</label>
+        <select id="Tip" asp-items="@Model.Ekransl" asp-for="ekran"></select>
+        <input type="submit" value="Trazi" />
+        <div />
+</form>
+<div >
+    <table class="table" style="width:100%">
+        <thead>
+            <tr class="bg-info" style="color: white">
+                <th style="width:30%"></th>
+                <th style="text-align:center">Karakteristike</th>
+                <th style="text-align:center">Cena</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var artikal in Model.Artikli)
+            {
+                <tr>
+                    <td><img src=@artikal.LokacijaSlika width="300px" height="300px" style="object-fit: contain" /></td>
+                    <td style="text-align:left; vertical-align: middle">
+                        <ul style="list-style-type:none">
+                            <li style="font-weight:bold">@artikal.Naziv</li>
+                            <li>Proizvodjac: @artikal.Proizvodjac</li>
+                            <li>RAM: @artikal.RAM</li>
+                            <li>Procesor: @artikal.TIP_CPU</li>
+                            <li>Ekran: @artikal.Ekran</li>
+                            <li>Kamera: @artikal.Kamera</li>
+                    </ul>
+                    </td>
+                    <td style="font-weight:bold; vertical-align: middle">@artikal.Cena</td>
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+</div>

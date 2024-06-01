@@ -1,0 +1,6 @@
+﻿Sif  Naziv                    Proizvodjac         RAM  TIP CPU        Kamera    Ekran     LokacijaSlike                 Cena       
+1    Samsung Galaxy S18       Samsung             64   Octa-Core      8         6         \Slike\s20.jpg                27.000 RSD                     
+2    Huawei P10 Lite          Huawei              12   Octa-Core      3         5         \Slike\p10.jpg                16.000 RSD
+3    iPhone X                 Apple               12   Hexa-Core      3         6         \Slike\ipx.jpg                42.000 RSD 
+4    Nokia N200               Nokia               64   Octa-Core      13        6.5       \Slike\n200.jpg               30.000 RSD 
+5    F22 Pro                  DuoQin              64   Octa-Core      8         3.54      \Slike\f22.jpg                17.000 RSD 
